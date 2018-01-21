@@ -1,0 +1,6 @@
+repo: cf01da08afa10474be3926b38e0b74139493acd9
+node: 1a8b90de97c2f41844dfc81d25fbad3099d13e15
+branch: python3
+latesttag: 0.26
+latesttagdistance: 14
+changessincelatesttag: 16
